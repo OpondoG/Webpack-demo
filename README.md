@@ -2,7 +2,7 @@
 
 # Project Name
 
-> Description the project.
+> this is a webpack project that the purpose of this project is to understand how use webpack to bundle JavaScript.
 
 
 ## Built With
